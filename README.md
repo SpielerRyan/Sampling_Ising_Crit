@@ -1,0 +1,1 @@
+We sample the 2d Ising model at criticality using a variational autoregressive network.  The results begin to show the physics associated with criticality, indicating that more compute might yield promising output.
