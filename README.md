@@ -1,7 +1,8 @@
 # Sampling the 2D Classical Ising Model at Criticality via Variational Autoregressive Networks (VAN)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qaf2--FXYCVYkyKAuvuO7gC_nwR5Dy2E)
-**[View the Fully Rendered Notebook on nbviewer](https://nbviewer.org/github//SpielerRyan/Sampling_Ising_Crit/blob/main/Sampling_Ising.ipynb)**
+
+**[View the Fully Rendered Notebook on nbviewer](https://nbviewer.org/github/SpielerRyan/Sampling_Ising_Crit/blob/main/Sampling_Ising.ipynb)**
 
 Inspired by the framework in **arXiv:1809.10606** and the realization that the autoregressive property maps to a generalized **transfer matrix**, this repository utilizes a Pixel Convolutional Neural Network (PixelCNN) to sample configurations of the 2D classical Ising model at its critical temperature.
 
