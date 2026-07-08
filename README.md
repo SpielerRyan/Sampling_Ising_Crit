@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qaf2--FXYCVYkyKAuvuO7gC_nwR5Dy2E)
 
-**[View the Fully Rendered Notebook on nbviewer]([https://nbviewer.org/github.com/SpielerRyan/Sampling_Ising_Crit/blob/main/Sampling_Ising.ipynb](https://nbviewer.org/github/SpielerRyan/Sampling_Ising_Crit/blob/blob/main/Sampling_Ising.ipynb)**
+**[View the Fully Rendered Notebook on nbviewer]([https://nbviewer.org/github.com/SpielerRyan/Sampling_Ising_Crit/blob/main/Sampling_Ising.ipynb](https://nbviewer.org/github/SpielerRyan/Sampling_Ising_Crit/blob/blob/main/Sampling_Ising.ipynb))**
 
 Note that nbviewer has a GitHub API limit.  If clicking the above link gives an error stating that limit to have been exceed, use the open in Colab button or download the Sampling_Ising.ipynb and upload it to Colab to view.
 
